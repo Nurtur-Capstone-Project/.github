@@ -23,7 +23,7 @@ Our team has been organized into three different divisions, each tasked with spe
 | C332BSY4355 | Hesa Firdaus          |
 | C596BSY4124 | Sandy Shultan Gunawan |
 
-## Cloud Computing Path
+## Mobile Development Path
 
 | Bangkit ID  | Name                        |
 | ----------- | --------------------------- |
