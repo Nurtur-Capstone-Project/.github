@@ -2,9 +2,12 @@
 <<<<<<< HEAD
 
                                 ## CH2-PS192-Nurtur
+
 =======
+
 ## CH2-PS192-Nurtur
->>>>>>> c5b9333d3620c4268d17307fa7f317086d860699
+
+> > > > > > > c5b9333d3620c4268d17307fa7f317086d860699
 
 Hello everyone! We are a group of seven people from different parts of Indonesia, participating in an esteemed program known as Bangkit 2023. This amazing program has been founded and hosted by renowned companies such as Google, Traveloka, Goto, and Dicoding.
 
@@ -27,11 +30,7 @@ Our team has been organized into three different divisions, each tasked with spe
 | C332BSY4355 | Hesa Firdaus          |
 | C596BSY4124 | Sandy Shultan Gunawan |
 
-<<<<<<< HEAD
 ## Mobile Development Path
-=======
-## Cloud Computing Path
->>>>>>> c5b9333d3620c4268d17307fa7f317086d860699
 
 | Bangkit ID  | Name                        |
 | ----------- | --------------------------- |
