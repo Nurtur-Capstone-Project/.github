@@ -2,10 +2,6 @@
 
 ## CH2-PS192-Nurtur
 
-=======
-
-## CH2-PS192-Nurtur
-
 Hello everyone! We are a group of seven people from different parts of Indonesia, participating in an esteemed program known as Bangkit 2023. This amazing program has been founded and hosted by renowned companies such as Google, Traveloka, Goto, and Dicoding.
 
 ## Our Teams
