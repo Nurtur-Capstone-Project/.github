@@ -1,4 +1,5 @@
 ![Thumbnail](https://github.com/Nurtur-Capstone-Project/.github/assets/85015643/6ef71a87-9264-44e7-8371-5702c7669885)
+<img width="1920" height="1080" alt="halaman1" src="https://github.com/user-attachments/assets/ed047081-4964-458b-99a5-1cce5dae6935" />
 
 ## CH2-PS192-Nurtur
 
@@ -31,3 +32,4 @@ Our team has been organized into three different divisions, each tasked with spe
 | A175BSY2720 | Arda Prayogo                |
 
 In conclusion, we are honored to be part of this remarkable journey, united by our passion and dedication. We express our sincere gratitude to Google, Traveloka and Dicoding for providing us with this invaluable opportunity.
+
