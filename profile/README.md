@@ -8,13 +8,13 @@ We are a team of seven, hailing from different parts of Indonesia, and we're pro
 
 To tackle our project, we've organized ourselves into three distinct divisions:
 
-- Cloud Computing: Our cloud team handles all things infrastructure. They build and manage our cloud systems, design the database and API to process data, and serve as the bridge connecting our Machine Learning and Mobile Development teams.
+* Cloud Computing: Our cloud team handles all things infrastructure. They build and manage our cloud systems, design the database and API to process data, and serve as the bridge connecting our Machine Learning and Mobile Development teams.
 
-- Machine Learning: The ML division is focused on building the core of our smart technology—an algorithm that can classify facial emotions from images.
+* Machine Learning: The ML division is focused on building the core of our smart technology—an algorithm that can classify facial emotions from images.
 
-- Mobile Development: Our mobile team is responsible for creating a user-friendly interface for our counseling application.
+* Mobile Development: Our mobile team is responsible for creating a user-friendly interface for our counseling application.
 
-## Machine Learning Path
+## Machine Learning
 
 | Bangkit ID  | Name                       |
 | ----------- | -------------------------- |
@@ -22,24 +22,26 @@ To tackle our project, we've organized ourselves into three distinct divisions:
 | M673BSX0878 | Permata Ayu Rahmawati      |
 | M180BSX0884 | Aulia Audri Fitriyatna     |
 
-## Cloud Computing Path
+## Cloud Computing
 
 | Bangkit ID  | Name                  |
 | ----------- | --------------------- |
 | C332BSY4355 | Hesa Firdaus          |
 | C596BSY4124 | Sandy Shultan Gunawan |
 
-## Mobile Development Path
+## Mobile Development
 
 | Bangkit ID  | Name                        |
 | ----------- | --------------------------- |
 | A123BSY2618 | Ahmed Indarafata Akmal M.S. |
 | A175BSY2720 | Arda Prayogo                |
+| C332BSY4355 | Hesa Firdaus                |
 
-In conclusion, we are honored to be part of this remarkable journey, united by our passion and dedication. We express our sincere gratitude to Google, Traveloka and Dicoding for providing us with this invaluable opportunity.
+In conclusion, we are honored to be part of this remarkable journey, united by our passion and dedication. We express our sincere gratitude to Google, GoTo, Traveloka, and Dicoding for providing us with this invaluable opportunity.
 
 <img width="1920" height="1080" alt="image2" src="https://github.com/user-attachments/assets/8c639b84-d996-4aa8-a735-c4188de2caca" /><br>
 
 <img width="2066" height="3948" alt="image3" src="https://github.com/user-attachments/assets/9d29a53e-0b0f-4baa-9307-7ae237c980dd" />
+
 
 
