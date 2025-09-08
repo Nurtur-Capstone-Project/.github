@@ -4,13 +4,19 @@
 
 <img width="2066" height="3948" alt="image3" src="https://github.com/user-attachments/assets/9d29a53e-0b0f-4baa-9307-7ae237c980dd" />
 
-## CH2-PS192-Nurtur
+## Nurtur Team - CH2-PS192 
 
-Hello everyone! We are a group of seven people from different parts of Indonesia, participating in an esteemed program known as Bangkit 2023. This amazing program has been founded and hosted by renowned companies such as Google, Traveloka, Goto, and Dicoding.
+Hello everyone,
 
-## Our Teams
+We are a team of seven, hailing from different parts of Indonesia, and we're proud participants of Bangkit Academy 2023 Batch 2. This incredible program is led by some of the biggest names in tech: Google, GoTo, Traveloka, and Dicoding.
 
-Our team has been organized into three different divisions, each tasked with specific duties. The Cloud Computing Division is responsible for developing APIs for handling data and building connectivity between the Machine Learning Division and the Mobile Development Division. In the Machine Learning field, our team specializes in providing algorithms for classifying images of facial emotions. In addition, our Mobile Development Division is in charge of creating interfaces for counseling place applications.
+To tackle our project, we've organized ourselves into three distinct divisions:
+
+Cloud Computing: Our cloud team handles all things infrastructure. They build and manage our cloud systems, design the database and API to process data, and serve as the bridge connecting our Machine Learning and Mobile Development teams.
+
+Machine Learning: The ML division is focused on building the core of our smart technology—an algorithm that can classify facial emotions from images.
+
+Mobile Development: Our mobile team is responsible for creating a user-friendly interface for our counseling application.
 
 ## Machine Learning Path
 
@@ -35,6 +41,7 @@ Our team has been organized into three different divisions, each tasked with spe
 | A175BSY2720 | Arda Prayogo                |
 
 In conclusion, we are honored to be part of this remarkable journey, united by our passion and dedication. We express our sincere gratitude to Google, Traveloka and Dicoding for providing us with this invaluable opportunity.
+
 
 
 
